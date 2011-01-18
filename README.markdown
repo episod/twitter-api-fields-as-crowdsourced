@@ -1,1 +1,1 @@
-[Help document all the fields in the Twitter API](/twitter-api-fields-as-crowdsourced/wiki)
+[Help document all the fields in the Twitter API](/episod/twitter-api-fields-as-crowdsourced/wiki)
